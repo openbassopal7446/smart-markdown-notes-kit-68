@@ -1,2 +1,9 @@
-# smart-markdown-notes-kit-68
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
